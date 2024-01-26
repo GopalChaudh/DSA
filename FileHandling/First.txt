@@ -1,0 +1,4 @@
+hi !
+  i am a new file
+appending !
+  i am same file
