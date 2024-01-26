@@ -1,4 +1,0 @@
-remove .exe files =  get-ChildItem -r -filter *.exe | forEach-Object { Remove-Item $_.FullName } 
-
-
-
